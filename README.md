@@ -1,18 +1,18 @@
 ## Multiview Subspace Clustering by an Enhanced Tensor Nuclear Norm
 
-Simple implementation of our paper WTNNM.
+Simple implementation of our paper WTSNM_MVSC.
 The details can be found in the [IEEE-TC2021 paper](https://ieeexplore.ieee.org/document/9364911).
 
-### requirements
+## requirements
 - MATLAB R2018b
 
-### run
+## run
 
 ```
 run_cluster.m
 ```
 
-### Citation
+## Citation
 
 If you find our approach useful in your research, please consider citing:
 
@@ -31,3 +31,6 @@ If you find our approach useful in your research, please consider citing:
 }
 
 ```
+
+## Update Log
+Uploading the source codes and demo dataset! May-31th-2022
